@@ -1,4 +1,4 @@
-# Enumerating_All_Simple_Paths_MATLAB-R2017a
+# Enumerating_All_Simple_Paths_MATLAB_R2017a
 Enumerating All Simple Paths in a Graph - Developed in MATLAB R2017a
 
 Main paper:                                                    
